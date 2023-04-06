@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLoRa.a  CMakeFiles/LoRa.dir/src/lora.cpp.o CMakeFiles/LoRa.dir/src/packet.cpp.o
+/usr/bin/ranlib libLoRa.a

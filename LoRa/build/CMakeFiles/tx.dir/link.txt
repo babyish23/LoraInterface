@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/tx.dir/examples/tx.cpp.o  -o tx  -L"/home/pi/workplace/moveIn/libLoRaPi-master/src/*.h" -Wl,-rpath,"/home/pi/workplace/moveIn/libLoRaPi-master/src/*.h" libLoRa.a /usr/lib/libwiringPi.so 

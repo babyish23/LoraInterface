@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/lora.h
+stdint.h
+-
+packet.h
+../src/packet.h
+
+../src/packet.h
+string.h
+-
+stdint.h
+-
+
+/home/pi/workplace/moveIn/libLoRaPi-master/examples/rx.cpp
+iostream
+-
+cstdio
+-
+lora.h
+/home/pi/workplace/moveIn/libLoRaPi-master/examples/lora.h
+packet.h
+/home/pi/workplace/moveIn/libLoRaPi-master/examples/packet.h
+

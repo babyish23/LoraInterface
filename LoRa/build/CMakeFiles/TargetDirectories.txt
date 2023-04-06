@@ -1,0 +1,5 @@
+/home/pi/workplace/moveIn/libLoRaPi-master/build/CMakeFiles/rebuild_cache.dir
+/home/pi/workplace/moveIn/libLoRaPi-master/build/CMakeFiles/edit_cache.dir
+/home/pi/workplace/moveIn/libLoRaPi-master/build/CMakeFiles/LoRa.dir
+/home/pi/workplace/moveIn/libLoRaPi-master/build/CMakeFiles/rx.dir
+/home/pi/workplace/moveIn/libLoRaPi-master/build/CMakeFiles/tx.dir
